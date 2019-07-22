@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularLearning.Api", "AngularLearning.Api\AngularLearning.Api.csproj", "{C4E9860F-057C-4D97-9FF9-730EFDD3EEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAppCrud", "AngularAppCrud\AngularAppCrud.csproj", "{0E4ED659-305E-48DE-B7D9-D9B52127BA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E9860F-057C-4D97-9FF9-730EFDD3EEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E9860F-057C-4D97-9FF9-730EFDD3EEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E9860F-057C-4D97-9FF9-730EFDD3EEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E9860F-057C-4D97-9FF9-730EFDD3EEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4ED659-305E-48DE-B7D9-D9B52127BA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4ED659-305E-48DE-B7D9-D9B52127BA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4ED659-305E-48DE-B7D9-D9B52127BA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4ED659-305E-48DE-B7D9-D9B52127BA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A15EF2-A89D-4B8B-A2BD-0DA867520C57}
+	EndGlobalSection
+EndGlobal
